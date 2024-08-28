@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00741407-dbb1-438a-b28d-a289e00dbc70" name="Changes" comment="" />
+    <list default="true" id="00741407-dbb1-438a-b28d-a289e00dbc70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LacoRepeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LacoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Condicional.executor": "Run",
+    "Application.LacoRepeticao.executor": "Run",
+    "Application.LacoWhile.executor": "Run",
     "Application.Leitura.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -39,9 +45,23 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Leitura">
+  <component name="RunManager" selected="Application.LacoWhile">
     <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional" />
+      <module name="primeiroprojeto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LacoRepeticao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LacoRepeticao" />
+      <module name="primeiroprojeto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LacoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LacoWhile" />
       <module name="primeiroprojeto" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,6 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LacoWhile" />
+        <item itemvalue="Application.LacoRepeticao" />
         <item itemvalue="Application.Leitura" />
         <item itemvalue="Application.Condicional" />
       </list>
